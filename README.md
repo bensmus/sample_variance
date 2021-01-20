@@ -1,6 +1,6 @@
 # sample_variance
 
-Trying to see if the unbiased normal variance is more accurate than the biased normal variance for random samples of small sizes. 
+Trying to see if the unbiased sample variance is more accurate than the biased sample variance for random samples of small sizes. 
 
 *Based on my basic testing*
 
